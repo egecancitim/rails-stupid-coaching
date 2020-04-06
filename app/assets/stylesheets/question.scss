@@ -1,0 +1,66 @@
+// Place all the styles related to the Question controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+form {
+  font-family: Helvetica;
+  width: 700px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: vertical;
+
+}
+
+p {
+  font-family: Helvetica;
+}
+
+label {
+  justify-content: center;
+  padding: 5px;
+}
+
+.coach {
+  background: #B2EF9B;
+  border-radius: 5px;
+  padding: 5px;
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: Helvetica;
+  justify-content: center;
+  text-align: center;
+  background:#FE4A49;
+  color:#F4F4F8;
+  border-radius: 10px;
+}
+
+h3 {
+  font-family: Helvetica;
+}
+
+.back {
+  font-family: Helvetica;
+  text-decoration: none;
+  color: #009FB7;
+}
+
+#search {
+width: 400px;
+font-family: Helvetica;
+border-radius: 10px;
+margin: 5px;
+padding: 10px;
+}
+
+#button {
+  margin: 5px;
+  padding: 5px;
+  background: #009FB7;
+  color: #FED766;
+  width: 100px;
+  border-radius: 10px;
+  font-weight: bold;
+}
